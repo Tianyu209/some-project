@@ -1,0 +1,192 @@
+"THIS PARTNERSHIP AGREEMENT is entered into on [CURRENT_DATE]
+Between 
+(1)      [PARTY_1_NAME] whose principal place of business is at [PARTY_1_ADDRESS_SINGLE_LINE] (P1)
+(2)      [PARTY_2_NAME] whose principal place of business is at [PARTY_2_ADDRESS_SINGLE_LINE] (P2)
+(3)      [PARTY_3_NAME] whose principal place of business is at [PARTY_3_ADDRESS_SINGLE_LINE] (P3)
+(4)      [PARTY_4_NAME] whose principal place of business is at [PARTY_4_ADDRESS_SINGLE_LINE] (P4)
+(5)      [PARTY_5_NAME] whose principal place of business is at [PARTY_5_ADDRESS_SINGLE_LINE] (P5)
+Whereas 
+ 
+(A) P1, P2, P3, P4 and P5 wish to establish a partnership in [TERRITORY] under the name of [NAME] (the Partnership) for the purpose of [BUSINESS].
+  
+(B) P1, P2, P3, P4 and P5 wish to regulate their relationship as partners in the Partnership and the management of the Partnership in accordance with the terms of this Agreement.
+It is agreed as follows:
+1. Interpretation
+Definitions
+1.1 In this Agreement the following expressions have the following meanings:
+Accounting Period, with respect to the Partnership, means the period from and including [FIN_YEAR] in any calendar year to and excluding [FIN_YEAR] in the following year or such other period or periods as the Partners may determine;
+Affiliate, in relation to any Partner, means any subsidiary or holding company for the time being of that Partner and any other subsidiary for the time being of that holding company;
+Accounts means the accounts of the Partnership audited by the Auditors in accordance with clause 12;
+<? if($AUDITOR!=""""){ ?>
+Auditors means [AUDITOR] or such other firm as the Partnership Board may subsequently appoint;
+<? } ?>
+Budget means the budget for each Accounting Period of the Partnership prepared pursuant to clause 13;
+Business Day means a day on which banks generally are open in [TERRITORY] (excluding Saturdays) for a full range of business;
+Business means the business and affairs of the Partnership as set out in clause 3 of this Agreement;
+Business Plan means a rolling business plan for the Partnership relating to the current Accounting Period and two succeeding Accounting Periods, as approved from time to time by the Partnership Board;
+Director means any member of the Partnership Board;
+Effective Date means the date of this Agreement;
+Executive Manager means the Chief Executive and any other member of the senior management team of the Partnership;
+Partners means P1, P2, P3, P4 and P5 and Partner means either of them;
+Partnership Board means the Partnership Board constituted pursuant to clause 7;
+Partnership Interest, when used in relation to a Partner, means the Partner's Percentage Share and the Partner's rights and obligations under this Agreement;
+Partnership means the partnership between P1, P2, P3, P4 and P5 constituted by this Agreement and known as [NAME];
+Percentage Share means, in relation to a Partner, the proportion which its Capital Account bears to the aggregate Capital Accounts of all the Partners;
+P1's Capital Account means an account in the name of P1 to which there are credited the sum referred to in clause 4 and all sums contributed by P1 to the Partnership in respect of capital in accordance with clause 5;
+P2's Capital Account means an account in the name of P2 to which there are credited the sum referred to in clause 4 and all sums contributed by P2 to the Partnership in respect of capital in accordance with clause 5;
+P3's Capital Account means an account in the name of P3 to which there are credited the sum referred to in clause 4 and all sums contributed by P3 to the Partnership in respect of capital in accordance with clause 5;
+P4's Capital Account means an account in the name of P4 to which there are credited the sum referred to in clause 4 and all sums contributed by P4 to the Partnership in respect of capital in accordance with clause 5;
+P5's Capital Account means an account in the name of P5 to which there are credited the sum referred to in clause 4 and all sums contributed by P5 to the Partnership in respect of capital in accordance with clause 5;
+P1 Director means a member of the Partnership Board appointed by P1;
+P2 Director means a member of the Partnership Board appointed by P2;
+P3 Director means a member of the Partnership Board appointed by P3;
+P4 Director means a member of the Partnership Board appointed by P4;
+P5 Director means a member of the Partnership Board appointed by P5.
+Clauses and Headings
+1.2 Clause and other headings are for convenience only and do not affect the construction of this Agreement.
+Statutes, Orders and Regulations
+1.3 Any reference to a statute, order or regulation, unless the context otherwise requires, includes references to such statute, order or regulation as amended, replaced, supplemented or re-enacted from time to time.
+2. Commencement
+This Agreement is effective from the Effective Date and continues until terminated in accordance with the terms of this Agreement.
+3. Business of the partnership
+3.1 The Business is [BUSINESS].
+3.2 The Business shall be conducted in the best interests of the Partnership on sound commercial profit-making principles in accordance with the Business Plan. The Partners shall use all reasonable endeavours to procure its prompt and effective implementation.
+3.3 The name of the Partnership shall be [NAME] (or such other name as the Partners agree).
+4. Partnership capital
+4.1 The Partners shall respectively make initial contributions to the capital of the Partnership as follows:
+(a) P1: [P1_CAPITAL] in [P1_CAPITAL_DESCRIBE];
+(b) P2: [P2_CAPITAL] in [P2_CAPITAL_DESCRIBE];
+(c) P3: [P3_CAPITAL] in [P3_CAPITAL_DESCRIBE];
+(d) P4: [P4_CAPITAL] in [P4_CAPITAL_DESCRIBE];
+(e) P5: [P5_CAPITAL] in [P5_CAPITAL_DESCRIBE].
+4.2 The Partners acknowledge and agree that, following the initial contributions referred to in clause 4.1:
+(a) P1's Capital Account shall be credited with the sum of [P1_CAPITAL];
+(b) P2's Capital Account shall be credited with the sum of [P2_CAPITAL];
+(c) P3's Capital Account shall be credited with the sum of [P3_CAPITAL];
+(d) P4's Capital Account shall be credited with the sum of [P4_CAPITAL];
+(e) P5's Capital Account shall be credited with the sum of [P5_CAPITAL].
+4.3 The Percentage Shares of the Partners shall accordingly be [P1_SHARE] per cent for P1, [P2_SHARE] per cent for P2, [P3_SHARE] per cent for P3, [P4_SHARE] per cent for P4 and [P5_SHARE] per cent for P5 (or such other percentages as may from time to time be a consequence of any sale, assignment, transfer or disposal of the whole or part of a Partner's Partnership Interest pursuant to or as permitted by this Agreement).
+5. Further finance
+5.1 Each Partner undertakes that it will during the term of this Agreement contribute its Percentage Share of all funding required by any relevant Budget or as agreed by the Partnership Board pursuant to clause 5.3.
+5.2 All capital contributed by P1, P2, P3, P4 and P5 to meet funding pursuant to clauses 5.1 or 5.3 shall (unless otherwise agreed by the Partners) be treated as a capital contribution and credited to its respective Capital Account.
+5.3 Each Partner undertakes that, if the Partnership Board resolves that further funding from the Partners is required in addition to any such finance provided for in any relevant Budget and/or obtained from any third party borrowing, it will contribute its Percentage Share of the additional required funding on the terms set out in clause 5.1 or on such other terms as the Partners agree.
+5.4 All sums contributed pursuant to clause 5.3 shall also be credited to the relevant Partner's Capital Account.
+5.5 The Partners are not obliged to provide guarantees to support the Partnership's financing commitments. If they do so, such guarantees shall be given in proportion to each Partner's Percentage Share. The liabilities of the Partners under such guarantees (so far as possible) shall be several and not joint and several. If a claim is made under any such guarantee against a Partner, it is entitled to such a contribution from the other Partner as will ensure that the aggregate liability is borne by the Partners in their respective Percentage Shares.
+6. Profits and losses
+6.1 The amount of profits and losses in respect of any Accounting Period shall be determined from the Accounts of the Partnership. All profits and losses of the Partnership for any Accounting Period shall be allocated to the Partners in proportion to their Percentage Shares, unless the Partners agree otherwise.
+6.2 All profits and losses allocated under clause 6.1 shall be respectively credited or debited to the Partners' current accounts.
+6.3 Any cash available to the Partnership which the Partnership Board determines is surplus to the requirements of the Partnership shall, at the request of any Partner, be distributed to P1, P2, P3, P4 and P5 in accordance with their respective Percentage Shares.
+7. Directors and partnership board
+7.1 Overall supervision of the Business is the responsibility of the Partnership Board. The Partnership Board has authority to act on behalf of the Partnership in all matters in connection with the Business and will carry out its duties in such manner as the Partnership Board considers to be in the best interests of the Partnership.
+7.2 The Partnership Board will comprise of the following Directors consisting of:
+(a) [P1_DIRECTORS] Directors nominated by P1; 
+(b) [P2_DIRECTORS] Directors nominated by P2;
+(c) [P3_DIRECTORS] Directors nominated by P3; 
+(d) [P4_DIRECTORS] Directors nominated by P4; and
+(e) [P5_DIRECTORS] Directors nominated by P5.
+7.3 Any appointment or removal of a Director shall be effected by notice in writing to the Partnership signed by or on behalf of the Partner appointing the Director and shall take effect when the notice is delivered to the Partnership, subject to any contrary intention expressed in the notice.
+7.4 If any Partner ceases to be a Partner for any reason, the Partner&rsquo;s nominated Directors shall immediately resign their post.
+<? if($CHAIR!=""""){ ?>
+7.5 The first Chairperson shall be [CHAIR].
+<? } ?>
+<? if($CE!=""""){ ?>
+7.6 The first Chief Executive shall be [CE].
+<? } ?>
+7.7 The Partnership Board shall meet quarterly. In addition, any Partner has the right to convene a meeting of the Partnership Board at any time. Any meeting of the Partnership Board shall be called by the Chairperson and conducted in accordance with the provisions of this clause 7.
+7.8 The quorum for any meeting of the Partnership Board (other than an adjourned meeting) is a majority in number of the Directors, including at least one (1) P1 Director (or his alternate), at least one (1) P2 Director (or his alternate), at least one (1) P3 Director (or his alternate), at least one (1) P4 Director (or his alternate) and at least one (1) P5 Director (or his alternate). If that quorum is not present within 30 minutes from the time appointed for the meeting or if during the meeting the quorum ceases to be present, the meeting shall be adjourned for seven (7) Business Days. At that adjourned meeting any four (4) Directors or their alternates present shall be a quorum.
+7.9 At least seven (7) Business Days' written notice shall be given of any meeting of the Partnership Board, provided that a shorter period of notice may be given with the written approval of at least one (1) P1 Director (or his alternate), at least one (1) P2 Director (or his alternate), at least one (1) P3 Director (or his alternate), at least one (1) P4 Director (or his alternate) and at least one (1) P5 Director (or his alternate). Any such notice shall include an agenda identifying in reasonable detail the matters to be discussed (in particular, of any matter set out in clause 7.12) and shall be accompanied by copies of any relevant papers to be discussed at the meeting and any resolutions to be tabled. A meeting of the Partnership Board may consist of a conference between Directors who are not all in one place, but of whom each is able (directly or by telephonic communication) to speak to each of the others and to be heard by each of the others simultaneously; and the word meeting in this Agreement shall be construed accordingly.
+7.10 Any Director can require the Chief Executive or any other Executive Manager to attend (but not vote at) all or part of any meeting of the Partnership Board in order to provide information or views. The Director must notify the relevant Executive Manager and the Chairperson and the other Directors within five Business Days of receiving the notice of meeting that the Executive Manager's attendance is required and specify the items on which his information or views will be required.
+7.11 Resolutions of the Partnership Board shall be passed as follows:
+(a) Each Director has one vote. Any Director who is absent from the meeting may nominate any other Director who is present to act as his alternate and to vote in his place at the meeting.
+(b) If the Chairperson is not present at any meeting of the Partnership Board, those Directors present (if constituting a quorum) shall nominate a chairperson for that meeting; any Director acting as such a chairperson shall continue to have his vote in accordance with this clause 7.11.
+(c) Subject to clause 7.13, resolutions of the Partnership Board are passed by simple majority.
+7.12 In the event of deadlock on any vote taken pursuant to clause 7.11 which cannot be resolved after a further meeting of the Partnership Board, the matter shall be referred to the Chairperson / Chief Executives or other senior representatives of the Partners whose determination (if unanimous) shall bind the Partnership Board.
+7.13 The following Reserved Matters shall in any event require unanimity of the Partnership Board:
+(a) any change in the nature or scope of the Business (including any material business acquisition or disposal exceeding [INVESTMENT] in value or any material partnership or joint venture);
+(b) any material change in the organisation of the Partnership;
+(c) appointing or removing the Chief Executive or any material change in their respective employment terms;
+(d) approving the Business Plan and Budget or any material deviation from the Business Plan or Budget;
+(e) any expenditure on any particular item which is more than [CAPEX] (except as provided for in the relevant Budget);
+(f) disposing (including the grant of any security interest or other encumbrance over) any Partnership property where the value of the property exceeds [MATERIAL] ;
+(g) any transaction with a Partner or its Affiliate (or any material amendment to any contract with a Partner or its Affiliates);
+(h) removing Auditors and appointing new Auditors;
+(i) any change in the accounting policies of the Partnership;
+(j) commencing, settling or ceasing any litigation or arbitration involving the Partnership other than any litigation or arbitration involving (i) a dispute pursuant to this Agreement or (ii) a claim of less than [LITIGATION];
+((k) the borrowing or lending by the LLP or the giving of [BORROWING];
+(l) any guarantee or undertaking by the LLP of or in respect of any sum or connected sums being (in the aggregate where appropriate) in excess of [BORROWING];
+(m) any determination whether any cash available to the Partnership is surplus to the requirements of the Partnership;
+(n) any resolution to terminate or dissolve the Partnership under clause 18.2.
+7.14 The P1 Directors (acting unanimously) are empowered to bind P1 in matters relating to the Partnership. The P2 Directors (acting unanimously) are empowered to bind P2 in matters relating to the Partnership. The P3 Directors (acting unanimously) are empowered to bind P3 in matters relating to the Partnership. The P4 Directors (acting unanimously) are empowered to bind P4 in matters relating to the Partnership. The P5 Directors (acting unanimously) are empowered to bind P5 in matters relating to the Partnership.
+8. Executive management
+8.1 The Partnership Board shall delegate responsibility for day-to-day executive management of the Business to the Chief Executive. The Chief Executive shall carry out such responsibilities in accordance with the then current Business Plan and Budget and such policies as shall be laid down by the Partnership Board.
+8.2 The Chief Executive is responsible to the Partnership Board and shall be assisted in his duties by the other Executive Managers.
+8.3 The appointment and terms of reference of the other Executive Managers will be proposed by the Chief Executive but will be subject to the prior approval of the Partnership Board.
+9. Partnership property
+9.1 The property and assets of the Partnership shall be beneficially owned by the Partners in the proportions of their respective Percentage Shares and shall comprise:
+[ASSETS]
+and all other property (whether tangible or intangible) owned, developed, produced, created or acquired by the Partners in the course of the Partnership.
+9.2 Any property of the Partnership which is held by one of the Partners (or an Affiliate) shall be held by that Partner (or Affiliate) on trust for the benefit of the Partnership. That Partner shall (if required) enter into or procure appropriate declarations of trust in respect of the property.
+10. Undertakings by partners
+10.1 Neither Partner (or any Affiliate) shall (either solely or jointly with any other person, firm or company and whether directly or indirectly) carry on or be engaged in or interested (except as the holder for investment of securities dealt in on a stock exchange and not exceeding 5 per cent in nominal value of the securities of any class) in any Competing Business during the period of this Agreement. For this purpose, Competing Business means any business that competes with [BUSINESS].
+10.2 The restriction contained in clause 10.1 does not affect or prohibit any party (or any of their respective Subsidiaries acquiring or holding a Controlling Interest in a company or undertaking engaged in activities within the Field provided that the annual turnover of the competing activities in the Field amounts to less than twenty-five per cent (25%) of the turnover of the acquired company or undertaking as a whole.
+10.3 Each of the Partners undertakes to the other that, in addition to its other obligations under this Agreement, it shall:
+(a) promote the best interests of the Partnership and consult fully on all matters materially affecting the development of the Business; and
+(b) act in good faith towards the other in order to promote the success of the Partnership, including considering in good faith proposals made by any other Partner for modifying this Agreement.
+11. Expenses
+Where authorised by or in accordance with arrangements and procedures approved by the Partnership Board, a Partner is entitled to be reimbursed by the Partnership for costs and expenses incurred by the Partner in the due performance of its obligations as a partner in the Partnership; such reimbursement to be in accordance with and subject to arrangements and procedures approved by the Partnership Board.
+12. Accounts
+12.1 The Auditors of the Partnership shall be [AUDITOR]. The Accounting Period of the Partnership shall end on the last day of the Accounting Period in each year.
+12.2 The Partnership Board is responsible for maintaining proper accounting records for the Partnership. The records will be available for inspection by any Partner during normal business hours and upon reasonable notice.
+12.3 The Partnership Board is responsible for arranging the preparation of a balance sheet, profit and loss account, and a statement of source and application of funds relating to the Partnership as at the end of and for each Accounting Period in accordance with generally accepted accounting standards and principles in the [TERRITORY] . The Accounts shall be audited by the Auditors.
+13. Budgets and information
+13.1 The Chief Executive is responsible for producing a draft Budget for each Accounting Period and updating the Business Plan. The draft Budget and updated Business Plan shall be submitted to the Partnership Board for approval not less than 45 Business Days before the start of the following Accounting Period. In any event, the draft Budget and Business Plan (in each case with such amendments as the Partnership Board may agree) shall be adopted by the Partnership Board before the start of the relevant Accounting Period.
+13.2 The Chief Executive shall:
+(a) as soon as reasonably practicable after the end of each calendar month, prepare management accounts in accordance with generally accepted accounting standards and principles in the [TERRITORY] and a management report relating to the business of the Partnership for that period; and
+(b) following any request from any Partner, prepare all information relating to the affairs of the Partnership as the Partner may reasonably require.
+13.3 Following any request from the other Partner, each Partner will promptly submit to the Partnership Board all information relating to the affairs of the Partnership in the possession of that Partner and which the requesting Partner may reasonably require.
+14. Indemnities
+Each Partner (the Indemnifying Partner) hereby agrees with and undertakes to the other to indemnify the other Partner and to keep it indemnified at all times against all losses, demands, damages, charges, claims, actions, costs, expenses and other liabilities (Liabilities) of whatsoever nature suffered or incurred by the other Partner arising out of:
+(a) the Indemnifying Partner not performing any of its obligations under this Agreement; or
+(b) any act (including but not limited to the making of any contract or commitment) by the Indemnifying Partner outside the scope of its authority established by this Agreement, the Partnership Board or by express prior written authorisation of the other Partner;
+provided that the Indemnifying Partner is permitted to take in the name of the other Partner such action as the Indemnifying Partner may reasonably require to defend or avoid any such Liabilities or to recover the same from any third party and the other Partner shall give all such assistance to the Indemnifying Partner as the latter may reasonably require. This is subject to the Indemnifying Partner indemnifying the other Partner to its satisfaction against all losses, liabilities, costs, damages thereby incurred or to be incurred.
+15. Default
+15.1 If a Partner (the Defaulting Partner) commits an Event of Default, then:
+(a) the other Partner may serve a notice (Purchase Notice) requiring the Defaulting Partner to sell its Partnership Interest to that other Partner;
+(b) any Purchase Notice must be served within 60 days of the Event of Default;
+(c) the price at which the Partnership Interest of the Defaulting Partner shall be sold under this clause 15 is to be negotiated between the Partners. If they fail to agree, it shall be the fair value of the Partnership Interest as determined by an independent firm of chartered accountants appointed by the Partners (or, failing agreement, appointed by the President for the time being of the Institute of Chartered Accountants) taking into account all factors it considers relevant. The independent firm shall act as experts (and not as arbitrators) and its decision shall be final and bind the Partners.
+15.2 For the purposes of this clause 15 an Event of Default occurs:
+(a) if the Defaulting Partner commits a material breach of its obligations under this Agreement and fails to remedy the breach (or implement plans to the reasonable satisfaction of the other Partner to prevent the recurrence of the breach) within 90 days after being given notice by the other Partner to do so; the notice must indicate the notifying Partner's intention to exercise its rights under this clause 15; or
+(b) if the Defaulting Partner (or any holding company of the Defaulting Partner) goes into liquidation whether compulsory or voluntary (except for the purposes of a bona fide reconstruction with the consent of the other Partner, such consent not to be unreasonably withheld) or if a petition is presented or an order made for the appointment of an administrator in relation to the Defaulting Partner or if a receiver, administrative receiver or manager is appointed over any substantial part of the assets or undertaking of the Defaulting Partner.
+15.3 If an Event of Default occurs in relation to a Partner, then (irrespective of whether or not a Purchase Notice is served on the Defaulting Partner) the Directors appointed by the Defaulting Partner shall, for as long as the Event of Default exists, cease to be entitled to vote at any meeting of the Partnership Board and the approval of those Directors shall no longer be required under clause 7.12 and no such Directors appointed by the Defaulting Partner shall be required for the purposes of a quorum.
+16. Assignments
+16.1 No Partner shall transfer, assign, encumber or otherwise deal with any of its Partnership Interest otherwise than in accordance with this clause 16 without obtaining the prior written consent of the other Partner.
+16.2 Save for intra-group transfers permitted under clause 16.8, no Partner shall transfer, assign, encumber or otherwise deal with any of its Partnership Interest for an initial period of five (5) years from the date of this Agreement.
+16.3 After the end of the initial period mentioned in clause 16.2, if a Partner (the Seller) wishes to transfer its Partnership Interest (the Seller's Interest) other than to an Affiliate it shall give as early an indication as practicable to the other Partner of that wish so that orderly arrangements for the continuation of the Business can, if possible, be agreed. If no such arrangements are agreed, the Seller shall give to the other Partners (the Continuing Partner) notice in writing (a Transfer Notice) of the proposed transfer together with details of any proposed third party purchaser (being a bona fide purchaser on arm's length terms) (the Third Party Purchaser), the proposed purchase price and any other material terms agreed by the Seller and the Third Party Purchaser. A Transfer Notice is irrevocable, except as provided in this clause 16.
+16.4 On receipt of the Transfer Notice, the Continuing Partner has the right to buy all (but not some only) of the Seller's Interest at the purchase price specified in the Transfer Notice (or at such other price as the Seller and the Continuing Partner may agree) by giving written notice to the Seller within ninety (90) days of receipt of the Transfer Notice (the Acceptance Period).
+16.5 The Continuing Partner is bound (subject to any necessary regulatory approvals) to buy the Seller's Interest on giving written notice to the Seller to exercise its rights under clause 16.4. In such event, completion of the sale and purchase of the Seller's Interest shall take place within 60 days after the giving of the notice or, if later, the obtaining of all necessary approvals of any competent regulatory authorities.
+16.6 If the Continuing Partner gives notice rejecting the offer under the Transfer Notice or fails to give any notice under clause 16.4, the Seller is entitled to transfer the Seller's Interest on a bona fide arm's length sale to a Third Party Purchaser at a price being not less than the purchase price specified in the Transfer Notice, provided that the transfer is completed within a period of 180 days after the date of the Transfer Notice.
+16.7 Completion of any transfer of the Seller's Interest to a Third Party Purchaser is conditional on the Third Party Purchaser entering into an agreement with the Continuing Partner whereby it agrees to be bound (in terms reasonably satisfactory to the Continuing Partner) by provisions corresponding to provisions of this Agreement binding upon the Seller including (but without limitation) the undertakings given and restrictions accepted by the Seller under clause 10 and this clause 16.
+16.8 A Partner shall be entitled at any time to transfer all (but not some only) of its Partnership Interest to an Affiliate provided that (i) the condition set out in clause 16.7 applies equally to any such transfer and (ii) the selling Partner remains liable for the Affiliate performing its obligations under this Agreement.
+17. Confidentiality and announcements
+17.1 Each Partner shall at all times use all reasonable endeavours to keep confidential all commercial and technical information which it may acquire in relation to the Partnership or the Business or in relation to the customers, business or affairs of the other Partner or its Affiliates. No Partner shall use or disclose such information except with the consent of the other Partner or, in the case of information relating to the Partnership, for the purpose of advancing the Business. This does not apply to any information:
+(a) which is publicly available or becomes publicly available through no act of the Partner wishing to use or disclose the information;
+(b) which that Partner can demonstrate was already in its possession or was independently developed by that Partner or on its behalf;
+(c) which is obtained by that Partner from a third party which did not acquire or hold the information under an obligation of confidentiality; or
+(d) to the extent that it is required to be disclosed by law or by the rules of any recognised stock exchange or regulatory body.
+17.2 Each Partner shall use all reasonable endeavours to ensure that its employees and agents and any Affiliate (including its employees and agents) observe this confidentiality.
+17.3 No announcement in connection with the subject matter of this Agreement shall be made or issued by or on behalf of either of the Partners without the prior written approval of both Partners (such approval not to be unreasonably withheld or delayed) except as may be required by law or by any stock exchange or by any governmental authority.
+17.4 The provisions of this clause 17 continue after any termination of this Agreement.
+18. Termination and deadlock
+18.1 If a Partner considers that a fundamental deadlock or difference in relation to the conduct or development of the Business is arising between the Partners, it shall give as early an indication as practicable to the other Partner of that concern so that orderly arrangements for the continuation of the Business can, if possible, be agreed on an amicable basis.
+18.2 If the Partners agree that the financial results of the Business are substantially lower than contemplated or that the Business is no longer viable, then:
+(a) the Partnership Board may decide that the Business should be terminated; and
+(b) subject to any arrangements the Partners agree, the Partnership shall terminate upon the date agreed by the Partnership Board.
+18.3 In the event of termination:
+(a) the Partners shall consult and use all reasonable endeavours to agree an orderly programme for the winding up of the business of the Partnership and realising and distributing its assets;
+(b) the assets of the Partnership shall upon termination be realised and distributed to the Partners in the manner agreed between them or, failing agreement, pro rata to their Percentage Shares (subject to the payment of the debts and liabilities of the Partnership).
+18.4 Upon termination, the Partners shall prepare a balance sheet relating to the Partnership as at the termination date and a profit and loss account for the period from the end of the last Accounting Period up to the date of such termination. Such accounts shall be audited. The provisions of clause 6.1 shall apply to any profits and losses of the Partnership shown in the profit and loss account for the period up to the termination date as if that period were an Accounting Period.
+19. Waivers and amendments
+19.1 No failure or delay on the part of any Partner in exercising any power or right under this agreement and no granting of any indulgence or forbearance by such Partner to the others shall operate as a waiver of any covenant, agreement or provision to be performed by such other or in any way affect, diminish, restrict, or prejudice the rights and powers of the first-mentioned Partner.
+19.2 Save as expressly provided herein, no amendment or variation of this Agreement shall be effective unless in writing and signed by a duly authorised representative of each Partner.
+20. Severability
+If any provision of this Agreement is or is held to be invalid or unenforceable, then so far as it is invalid or unenforceable it has no effect and is deemed not to be included in this Agreement. This does n"
